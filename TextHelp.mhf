@@ -1,0 +1,99 @@
+ADD THESE LINES AT THE TOP OF EVERY DOCUMENT..
+ALTER ONLY THE IDENTIFIERS....................
+PRESS AND HOLD 'Alt' KEY THEN 3 NUMBERS FROM..
+THE NUMERIC KEYPAD TO USE EXTENDED CHARACTERS.
+CONTENT SF SUBJECT SF TEXT SF.................
+ÍÎ‡ÂÙˆ.<<<IDENTIFIERS.........................
+--------------------------------
+ÍKeyboard ControlsÎ
+‡Function KeysÂ
+ÙF1...Open File
+F2...Save File
+F3...Find Next          
+F4...Copy Selected Data
+F5...Paste Copied Data
+F6...Cut Selected Data
+F10..This Help Fileˆ
+
+‡Maneuvering KeysÂ
+ÙHOME.........First Block
+END..........Last Block
+PAGE UP......Previous Block
+PAGEDOWN.....Next Block
+DELETE.......Delete Selected Text
+UP ARROW.....Previous Row
+DOWN ARROW...Next Row
+RIGHT ARROW..Next Cell
+LEFT ARROW...Previous Cellˆ
+--------------------------------
+ÍSelecting HEX or TEXTÎ
+‡GeneralÂ
+ÙSelected data can be CUT, COPIED, and DELETED.
+Selected data is identified by a grid with a black background with white text.ˆ
+‡Shift MethodÂ
+ÙSelect the start of the selecton by clicking the desired grid.
+While holding the SHIFT key, select the end of the selecton by clicking the desired grid.
+Selected HEX or TEXT can also be copied and pasted into the search box.ˆ
+‡Double-Click MethodÂ
+ÙSelect the start of the selecton by DOUBLE-CLICKING and holding the left mouse button.
+Drag the mouse to the end of the desired selection, release the mouse button.
+Selected HEX or TEXT can also be copied and pasted into the search box.ˆ
+--------------------------------
+ÍSearching For HEX or TEXTÎ
+‡GeneralÂ
+ÙTYPE or PASTE the desired search criteria into the search box.
+Click the FIND button to start searching from the beginning of the file.
+Click the FIND NEXT button to search for the next occurance or from the selected grid position.ˆ
+‡Search TypeÂ
+ÙClick the button to the left of the search box to toggle between HEX search or TEXT search.
+To search for exact match, check the "Match Case". The "Match Case" is automatically checked when searching for hex.ˆ
+--------------------------------
+ÍEditing HEX or TEXTÎ
+‡Changing HEX DataÂ
+ÙClick on the desired 'Hex Grid' cell you want to edit and start typing.
+The grid will automatically advance to the next cell upon entering the second digit. a leading ZERO must be typed for values less than &10.
+Editing provides only overwrite mode.ˆ
+‡Changing TEXT DataÂ
+ÙClick on the desired 'Text Grid' cell you want to edit and start typing.
+The grid will automatically advance to the next cell upon pressing a key.
+Editing provides only overwrite mode.ˆ
+‡Inserting HEX or TEXT DataÂ
+ÙClick on the desired 'Hex Grid' or 'Text Grid' cell where you want to insert data.
+Click either the 'Insert Row' button (to insert 16 cells) or the 'Insert Block' button (to insert 512 cells).
+Add the desired data to the cells, select and delete the unused cells.ˆ
+‡Right Mouse FunctionsÂ
+ÙWhen the mouse pointer is over either the 'Hex Grid' or 'Text Grid', clicking the right mouse button will bring up a menu with the following edit functions:
+CUT, COPY, PASTE, DELETE
+INSERT ROW and INSERT BLOCKˆ
+--------------------------------
+ÍFile PositioningÎ
+‡GeneralÂ
+ÙThere are several ways of getting to a particular position in the file.
+You can use the 'Scroll Bar', 'Goto File Location', 'Goto Page' or the cursor keys.
+As you move the mouse around the grid, the status bar will indicate the current file position.ˆ
+‡Goto File LocationÂ
+ÙAs you start typing in the 'Goto File Location' box, the file will automatically begin advancing to the location. The box will turn RED to indicate an invalid file position.ˆ
+‡Goto PageÂ
+ÙAs you start typing in the 'Goto Page' box, the file will automatically begin advancing to the location of the start of a printable page. The box will turn RED to indicate an invalid printable page.ˆ
+--------------------------------
+ÍPrintingÎ
+‡GeneralÂ
+ÙClicking the 'Print Preview' will allow you to view a sample of the printed page and page printing options.ˆ
+‡Printing OptionsÂ
+ÙYou can choose to print the entire file or selected pages. Selecting pages has the following format:
+eg. 2,4,10-50,40:45,15,100
+The above example says to print:
+Page 2, Page 4, Page 15, Page 100
+Pages 10 through 15
+Pages 40 through 45ˆ
+
+
+
+
+
+
+
+
+
+
+
